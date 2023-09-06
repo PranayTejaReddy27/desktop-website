@@ -1,0 +1,91 @@
+.icon{
+    font-size: 20px;
+    color: whitesmoke;
+  }
+  .follow-us-icon-container {
+    margin: 5px;
+  }
+  .navbar-bg-colour{
+    background-color: #1C4C97;
+  }
+
+
+.about-us-page{
+    /* background-color: rgb(107, 189, 222); */
+    background-color: #75A0DC;
+    text-align: center;
+    color: whitesmoke;
+
+}
+.about-hed-section{
+    text-align: center;
+}
+
+
+/* our values  */
+
+
+  .qas-section-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .qas-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  .qas-card-image {
+    width: 100px;
+    height: 100px;
+  }
+  .qas-card-image-small {
+    width: 200px;
+    height: 150px;
+  }
+  .qas-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+
+
+
+  .get-section{
+    background-color: #1C4C97 ;
+  }
+.main{
+    text-align: center;
+  }
+
+
+
+
+  
+.Doctor-image{
+    height: 150px;
+    width: 150px;
+  }
+  .doctors-card{
+    text-align: center;
+  }
+  .doctors-span{
+    color: rgb(95, 95, 232);
+  }
+  .doctors-section{
+  background-color: #bfd8ff;
+  background-color: ;
+  }
+  
+  .our-leadership-head-section{
+    color: black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }

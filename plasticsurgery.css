@@ -1,0 +1,70 @@
+.plastic-surgery{
+  height: 400px;
+  width: 400px;
+}
+.icon{
+  font-size: 20px;
+  color: ffffff;
+}
+.follow-us-icon-container {
+  margin: 5px;
+}
+
+
+.treatment-services-page{
+  background-color: #75A0DC;
+  
+  text-align: center;
+  color: whitesmoke;
+
+}
+.navbar-bg-colour{
+  background-color: #1C4C97;
+}
+
+
+
+/* cost calculater */
+.cost-calculater-form-section{
+background-color: #bfd8ff;
+
+  border-radius: 20px;
+}
+.cost-calculater-form-head-section{
+  color: blue;
+  text-align: center;
+}
+.cost-calculater-form-mainhead-section{
+  font-weight: bold;
+
+
+}
+.cost-calculater-form-button-section{
+  text-align: center;
+}
+
+
+
+.list{
+  margin-top: 20px;
+}
+  /* .different-types-of-laser-treatment */
+  .different-types-of-laser-treatment{
+background-color: #bfd8ff;
+
+    }
+  .different-types{
+      background-color: whitesmoke;
+      border-radius: 30px;
+  
+  }
+  .Endovenous-tratment-head-section{
+      color: rgb(7, 24, 60);
+  }
+
+.top-form-section{
+background-color: #bfd8ff;
+border-radius: 10px;
+
+
+}  
