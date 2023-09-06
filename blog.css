@@ -1,0 +1,48 @@
+
+.about-us-page{
+    background-color: #75A0DC;
+    
+    text-align: center;
+    color: whitesmoke;
+
+}
+.navbar-bg-colour{
+    background-color: #1C4C97;
+  }
+.icon{
+    font-size: 20px;
+    color: whitesmoke;
+  }
+  .follow-us-icon-container {
+    margin: 5px;
+  }
+
+
+  .osd-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  /* .osd-card-image {
+    width:200px;
+    height: 150px;
+    border-radius: 10px;
+  } */
+  .osd-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .osd-card-description {
+    color: #7b8794;
+    
+    /* font-size: 16px; */
+  }
+  .osd-card-image{
+    height: 300px !important;
+  }
+

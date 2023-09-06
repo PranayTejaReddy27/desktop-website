@@ -1,0 +1,35 @@
+.icon{
+    font-size: 20px;
+    color: ffffff;
+  }
+  .follow-us-icon-container {
+    margin: 5px;
+  }
+
+
+
+.about-hed-section{
+    text-align: center;
+}
+
+
+.doctor-icon{
+    font-size: 20px;
+    color: rgb(75, 75, 224);
+}
+.our-doctors-head-section{
+  color: blacke;
+  font-family: "Roboto";
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.find-doctor-pages{
+  background-color: #75A0DC;
+  
+    text-align: center;
+
+}
+.navbar-bg-colour{
+  background-color: #1C4C97;
+}

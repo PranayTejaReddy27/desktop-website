@@ -1,0 +1,244 @@
+.icon{
+    font-size: 20px;
+    color: ffffff;
+  }
+  .follow-us-icon-container {
+    margin: 5px;
+  }
+
+.Quality-and-safety{
+    background-image: url("https://globalnews.ca/wp-content/uploads/2019/06/operation.jpg?quality=85&strip=all");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.about-head-section{
+  color: black;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.navbar-bg-colour{
+  background-color: #1C4C97;
+}
+
+
+
+
+
+/* appointment section  */
+.appointment-image-section{
+  background-color: #306fd5;
+  background-color: ;
+  text-align: center;
+}
+.appointment-section{
+  border: 1px solid black;
+  /* margin-top: -55px; */
+}
+.form-section{
+  background-color: #F8F8F8;
+}
+.appointment-button{
+  background-color: #1C4C97;
+}
+.call-button{
+  background-color:  #DF4A2C
+ ;
+
+}
+.appointment-section{
+  background-color: appointment-section !important;
+}
+
+
+/* quality and safety section */
+
+.qas-section {
+  
+  /* background-image: url("https://globalnews.ca/wp-content/uploads/2019/06/operation.jpg?quality=85&strip=all"); */
+  background-color: #bfd8ff;
+
+  opacity: 1.0;
+}
+.qas-section-heading {
+  color: black;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.qas-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.qas-card-image {
+  width: 150px;
+  height: 150px;
+}
+.qas-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.anchor-tag{
+  text-decoration: none;
+}
+
+
+
+
+
+/* why choose us */
+
+.wcu-section {
+  background-color: #bfd8ff;
+  
+   background-image: url("https://thumbs.dreamstime.com/b/medicine-healthcare-concept-doctor-stethoscope-clinic-close-up-global-125171698.jpg"); 
+  width: 100%;
+  height: 100%;
+  opacity: 1.0;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+
+
+.wcu-section-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.wcu-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.wcu-card-image {
+  width: 87px;
+  height: 90px;
+}
+.wcu-card-title {
+  color: #323f4b;
+  /* font-family: "Roboto"; */
+  font-size: 22px;
+  font-weight: 800;
+}
+
+
+
+/* ciranjeevi gallery section  */
+
+.gallery-section {
+  background-color: white;
+}
+.gallery-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.gallery-card {
+  border-radius: 16px;
+}
+.gallery-image {
+  border-radius: 16px;
+}
+.gallery-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+
+
+
+/* Our Specialised Departments */
+.osd-section {
+  background-color: #bfd8ff;
+  background-color: ;
+}
+.osd-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.osd-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.osd-card-image {
+  width:200px;
+  height: 150px;
+  border-radius: 10px;
+}
+.osd-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.osd-card-description {
+  color: #7b8794;
+  
+  /* font-size: 16px; */
+}
+.btn-outline-primary{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+.Doctor-image{
+  height: 150px;
+  width: 150px;
+}
+.doctors-card{
+  text-align: center;
+}
+.doctors-span{
+  color: rgb(95, 95, 232);
+}
+
+
+.cvc-image{
+  height: 500px;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+  color: #ffffff !important;
+  background-color: #1C4C97 !important;
+}
+
+
+
+
+
+
+

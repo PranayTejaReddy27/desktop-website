@@ -1,0 +1,57 @@
+.icon{
+    font-size: 20px;
+    color: ffffff;
+  }
+  .follow-us-icon-container {
+    margin: 5px;
+  }
+
+
+  .about-us-page{
+    background-color: #75A0DC;
+    
+    text-align: center;
+    color: whitesmoke;
+
+}
+.navbar-bg-colour{
+  background-color: #1C4C97;
+}
+
+/* ciranjeevi gallery section  */
+.gallery-section {
+    background-color: white;
+  }
+  .gallery-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .gallery-card {
+    border-radius: 16px;
+  }
+  .gallery-image {
+    border-radius: 16px;
+  }
+  .gallery-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .zoom {
+    padding: 50px;
+    /* background-color: green; */
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  
+
